@@ -4,7 +4,7 @@ public class Main {
         int ticketAmount = 60;
         int oneMili = 20;
 
-        int Mili = ticketAmount/oneMili;
+        int Mili = ticketAmount / oneMili;
 
 
         System.out.println("Количество миль " + Mili);
